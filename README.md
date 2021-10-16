@@ -7,6 +7,7 @@ This project is developed on DataBricks and Apache Spark.<br>
 <img class="image-align-left" src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/og-databricks.png" data-canonical-src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/og-databricks.png" width="300" height="200" />
 <img class="image-align-left" src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/Apache_Spark_logo.png" data-canonical-src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/Apache_Spark_logo.png" width="300" height="200" />
 <br>
+
 ## Analysis Performed
 
 Create a list of all countries to which orders have been shipped. <br>
@@ -16,7 +17,7 @@ Create a list of all countries to which orders have been shipped. <br>
 
 
 - How many orders have been shipped to each country? <br>
-<img class="image-align-left" src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/countByCountry.png" data-canonical-src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/countByCountry.png" width="300" height="200" />
+<img class="image-align-left" src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/countByCountry.png" data-canonical-src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/countByCountry.png" width="700" height="600" />
 
 
 
