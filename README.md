@@ -3,8 +3,8 @@
 ## Technology 
 
 This project is developed on DataBricks and Apache Spark.
-![DataBricks](https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/og-databricks.png?style=centerme)
-![Spark](https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/Apache_Spark_logo.png?style=centerme)
+![DataBricks](https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/og-databricks.png | width=100)
+![Spark](https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/Apache_Spark_logo.png | width=100)
 
 ## Data Attribution
 
@@ -22,9 +22,4 @@ s3://2u-data-curriculum-team/dataviz-classroom/v1.1/22-big-data/shippers.csv <br
 s3://2u-data-curriculum-team/dataviz-classroom/v1.1/22-big-data/suppliers.csv <br>
 s3://2u-data-curriculum-team/dataviz-classroom/v1.1/22-big-data/territories.csv <br>
 
-
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
 
