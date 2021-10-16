@@ -3,8 +3,8 @@
 ## Technology 
 
 This project is developed on DataBricks and Apache Spark.
-![DataBricks](https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/og-databricks.png?raw=true)
-![Spark](https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/Apache_Spark_logo.png?raw=true)
+![DataBricks](https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/og-databricks.png?raw=true =100x20)
+![Spark](https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/Apache_Spark_logo.png?raw=true =100x20)
 
 ## Data Attribution
 
