@@ -27,7 +27,7 @@ For each product, list its product ID, product name, and the company name. <br>
 
 - Which 5 countries have the heaviest shipments, on average? <br>
 <br>
-<img class="image-align-left" src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/countByCountry.png" data-canonical-src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/freightByCountry.png" width="700" height="500" />
+<img class="image-align-left" src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/freightByCountry.png" data-canonical-src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/freightByCountry.png" width="700" height="500" />
 <br>
 <br>
 
