@@ -26,7 +26,10 @@ For each product, list its product ID, product name, and the company name. <br>
 
 
 - Which 5 countries have the heaviest shipments, on average? <br>
-
+<br>
+<img class="image-align-left" src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/countByCountry.png" data-canonical-src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/freightByCountry.png" width="700" height="500" />
+<br>
+<br>
 
 - Which 10 companies have placed the most orders? List the contact name of each company. <br>
 
@@ -40,7 +43,7 @@ Sort customers with a total spending greater than 20,000 in descending order. <b
 
 Sort the employees by the number of orders they sold in descending order. <br>
 
--How many employees account for about half of the orders?  <br>
+- How many employees account for about half of the orders?  <br>
 
 
 List customers who have never placed an order. <br>
