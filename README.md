@@ -23,5 +23,5 @@ s3://2u-data-curriculum-team/dataviz-classroom/v1.1/22-big-data/suppliers.csv <b
 s3://2u-data-curriculum-team/dataviz-classroom/v1.1/22-big-data/territories.csv <br>
 
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/og-databricks.png" width="200" height="400" />
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/Apache_Spark_logo.png" width="200" height="400" />
+<img src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/og-databricks.png" data-canonical-src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/og-databricks.png" width="200" height="400" />
+<img src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/Apache_Spark_logo.png" data-canonical-src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/Apache_Spark_logo.png" width="200" height="400" />
