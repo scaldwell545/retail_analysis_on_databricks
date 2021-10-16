@@ -15,11 +15,11 @@ Create a list of all countries to which orders have been shipped. <br>
 - How many orders have been placed in total? <br>
 
 
-- How many orders have been shipped to each country? <br>
+- How many orders have been shipped to each country? 
+<br>
 <img class="image-align-left" src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/countByCountry.png" data-canonical-src="https://github.com/scaldwell545/retail_analysis_on_databricks/blob/main/Resources/countByCountry.png" width="700" height="500" />
-
-
-
+<br>
+<br>
 
 
 For each product, list its product ID, product name, and the company name. <br>
@@ -40,7 +40,7 @@ Sort customers with a total spending greater than 20,000 in descending order. <b
 
 Sort the employees by the number of orders they sold in descending order. <br>
 
-How many employees account for about half of the orders?  <br>
+-How many employees account for about half of the orders?  <br>
 
 
 List customers who have never placed an order. <br>
